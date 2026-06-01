@@ -1,5 +1,5 @@
-# PRODIGY_ML_05
-Food Recognition and Calorie Estimation using CNN
+# PRODIGY_ML_01
+# House Price Prediction using Linear Regression
 
 ## Internship Details
 
