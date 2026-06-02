@@ -105,7 +105,7 @@ This project provided valuable hands-on experience with regression-based machine
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/PRODIGY_ML_01.git
+git clone https://github.com/harshalyaravalkar/PRODIGY_ML_01.git
 ```
 
 2. Install dependencies
